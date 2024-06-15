@@ -69,5 +69,5 @@ This project is licensed under the [NAME HERE] License - see the LICENSE.md file
 ## Acknowledgments
 
 Inspiration, code snippets, etc.
-* [Design](https://dribbble.com/shots/20166390--29-Mobile-App-Concept)
+* [Design inspiration](https://dribbble.com/shots/20166390--29-Mobile-App-Concept)
 
