@@ -60,7 +60,7 @@ class _NewTaskState extends State<NewTask> {
                 clipper: BackgroundClip(screenHeight: height),
                 child: AnimatedContainer(
                   curve: Curves.bounceIn,
-                  duration: Durations.long1,
+                  duration: Durations.long4,
                   decoration: BoxDecoration(color: pageColor),
                   height: anim ? height : 0,
                   width: anim ? width : 0,

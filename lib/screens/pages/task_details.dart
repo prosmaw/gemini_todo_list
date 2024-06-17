@@ -58,7 +58,7 @@ class _TaskdetailsState extends State<Taskdetails> {
               clipper: BackgroundClip(screenHeight: height),
               child: AnimatedContainer(
                 curve: Curves.bounceIn,
-                duration: Durations.long1,
+                duration: Durations.long4,
                 decoration: BoxDecoration(
                   color: Color.fromARGB(
                       task.taskColor!['a'],
